@@ -1,0 +1,16 @@
+{
+    "name": "prabo/course-feedback-backend",
+    "description": "Backend API for course feedback system (PHP + MySQL + JWT)",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^6.10",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "Prabor Kar",
+            "email": "prabork@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
