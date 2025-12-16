@@ -133,4 +133,4 @@ Backend runs on http://localhost:8000
 
 ## Author
 
-Built as a full-stack engineering showcase project.
+Prabor-kar
